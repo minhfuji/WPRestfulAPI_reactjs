@@ -1,4 +1,4 @@
-Demo link https://minhfuji.github.io/WPRestfulAPI_reactjs/public/
+Demo link https://minhfuji.github.io/WPRestfulAPI_reactjs/build/
 
 # Backend
 
