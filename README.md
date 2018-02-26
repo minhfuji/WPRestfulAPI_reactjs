@@ -37,7 +37,7 @@ npm start
 ```
 ### Or webpack it to public folder
 ```
-npm build 
+npm run build 
 ```
 
 ## Screenshot
